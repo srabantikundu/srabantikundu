@@ -3,7 +3,7 @@
 
 #### Passionate about data analysis
 
-I'm a **mother**, **a data anlyst**, and **a keen observer to things** with a wide variety of interests ranging from data analysis using Python, SQL, R or Spreadsheets.
+I'm a **mother**, **a data analyst**, and **a keen observer to things** with a wide variety of interests ranging from data analysis using Python, SQL, R or Spreadsheets.
 
 I have more than 10 years experience in financial systems including banking. I have been a Credit Risk Analyst in the past. I have led teams to acheive business goals.
 
