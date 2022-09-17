@@ -14,6 +14,7 @@ Feel free to browse my repos. You can learn more from my website: [https://sraba
 
 <!-- BLOG-POST-LIST:START -->
 - [Cyclistic Ride Share](https://github.com/srabantikundu/cyclistic-bike-share-analysis)
+- [Bellabeat Fitness analysis](https://github.com/srabantikundu/bellabeat-analysis)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Certifications:
